@@ -4,17 +4,17 @@
 <h1 align="center">Hi 👋, I'm Khushi Parikh</h1>
 <h3 align="center">"Jo hoga woh dekha jaayega"</h3>
 
-- 👨🏼‍🎓 I'm a final year undergrad at IIT Jodhpur.
+- 👨🏼‍🎓 IIT Jodhpur'24
+
+- 💥 Software Engineer @Google
 
 - ✨ Project Intern @Oracle in Summer'23.
-
-- 🌱 I’m currently learning **blockchain development**
 
 - 👯 I’m looking to collaborate on **any intruiging project!**
 
 - 📫 How to reach me : **khushiparikh202@gmail.com**
 
-- ⚡ Fun fact **I enjoy designing as well :)**
+- ⚡ Fun fact: **I enjoy graphic design as well :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
